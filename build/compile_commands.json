@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/build",
+  "command": "/usr/bin/g++-5     -g   -std=c++0x -o CMakeFiles/ExtendedKF.dir/src/FusionEKF.cpp.o -c /home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/FusionEKF.cpp",
+  "file": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/FusionEKF.cpp"
+},
+{
+  "directory": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/build",
+  "command": "/usr/bin/g++-5     -g   -std=c++0x -o CMakeFiles/ExtendedKF.dir/src/kalman_filter.cpp.o -c /home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/kalman_filter.cpp",
+  "file": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/kalman_filter.cpp"
+},
+{
+  "directory": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/build",
+  "command": "/usr/bin/g++-5     -g   -std=c++0x -o CMakeFiles/ExtendedKF.dir/src/main.cpp.o -c /home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/main.cpp",
+  "file": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/main.cpp"
+},
+{
+  "directory": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/build",
+  "command": "/usr/bin/g++-5     -g   -std=c++0x -o CMakeFiles/ExtendedKF.dir/src/tools.cpp.o -c /home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/tools.cpp",
+  "file": "/home/thrycle/tracking-with-Extended-Kalman-Filter-master/src/tools.cpp"
+}
+]
